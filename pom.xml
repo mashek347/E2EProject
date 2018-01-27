@@ -55,11 +55,13 @@
   <scope>test</scope>
 </dependency>
 
- <dependency>
-<groupId>com.relevantcodes</groupId>
-<artifactId>extentreports</artifactId>
-<version>2.40.2</version>
+
+<dependency>
+    <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
 </dependency>
+
       <dependency>
     <groupId>org.apache.logging.log4j</groupId>
     <artifactId>log4j-api</artifactId>
